@@ -4,6 +4,7 @@ import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
 //f1f33b3b
+//API KEY
 
 const API_URL = "http://www.omdbapi.com?apikey=f1f33b3b";
 
